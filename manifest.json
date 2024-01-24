@@ -1,0 +1,77 @@
+{
+	"id": "02ab67a4-ad6d-4b1a-aa48-ae8ba50fce43",
+	"acceptMappedClaims": null,
+	"accessTokenAcceptedVersion": 2,
+	"addIns": [],
+	"allowPublicClient": null,
+	"appId": "906a1280-c9dc-44a7-9e91-0bc8038c976e",
+	"appRoles": [],
+	"oauth2AllowUrlPathMatching": false,
+	"createdDateTime": "2023-10-07T20:59:49Z",
+	"description": null,
+	"certification": null,
+	"disabledByMicrosoftStatus": null,
+	"groupMembershipClaims": null,
+	"identifierUris": [],
+	"informationalUrls": {
+		"termsOfService": null,
+		"support": null,
+		"privacy": null,
+		"marketing": null
+	},
+	"keyCredentials": [],
+	"knownClientApplications": [],
+	"logoUrl": null,
+	"logoutUrl": null,
+	"name": "ms-todo-backup app",
+	"notes": null,
+	"oauth2AllowIdTokenImplicitFlow": false,
+	"oauth2AllowImplicitFlow": false,
+	"oauth2Permissions": [],
+	"oauth2RequirePostResponse": false,
+	"optionalClaims": null,
+	"orgRestrictions": [],
+	"parentalControlSettings": {
+		"countriesBlockedForMinors": [],
+		"legalAgeGroupRule": "Allow"
+	},
+	"passwordCredentials": [
+		{
+			"customKeyIdentifier": null,
+			"endDate": "2024-01-06T08:44:49.559Z",
+			"keyId": "ae1fb371-8290-4d5e-8048-da0f8269bd90",
+			"startDate": "2023-10-08T07:44:49.559Z",
+			"value": null,
+			"createdOn": "2023-10-08T07:44:59.8720886Z",
+			"hint": "aB-",
+			"displayName": "Client secret"
+		}
+	],
+	"preAuthorizedApplications": [],
+	"publisherDomain": "_HIDDEN_",
+	"replyUrlsWithType": [
+		{
+			"url": "http://localhost:8080",
+			"type": "Web"
+		}
+	],
+	"requiredResourceAccess": [
+		{
+			"resourceAppId": "00000003-0000-0000-c000-000000000000",
+			"resourceAccess": [
+				{
+					"id": "f45671fb-e0fe-4b4b-be20-3d3ce43f1bcb",
+					"type": "Scope"
+				}
+			]
+		}
+	],
+	"samlMetadataUrl": null,
+	"signInUrl": null,
+	"signInAudience": "AzureADandPersonalMicrosoftAccount",
+	"tags": [
+		"apiConsumer",
+		"webApp"
+	],
+	"tokenEncryptionKeyId": null
+}
